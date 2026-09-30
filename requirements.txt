@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+google-genai
+diffusers
+transformers
+torch
+fpdf2
+Pillow
+accelerate
+python-dotenv
